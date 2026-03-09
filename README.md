@@ -63,8 +63,7 @@ A collection of small-scale web projects showcasing various web development skil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishankant-dixit) : (https://www.linkedin.com/in/krishankant-dixit-xb5)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krishankant-dixit.github.io) : Coming Soon 🚧
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krishankant-dixit.github.io) : (https://krishankant-dixit.vercel.app)
 ---
 
 💡 *"Turning ideas into reality, one line of code at a time"*
