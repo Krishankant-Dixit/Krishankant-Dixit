@@ -46,6 +46,9 @@ A machine learning-based system using **OpenCV** and **ML algorithms** to detect
 ### 💬 Chatify – Smart Chat App
 An intelligent chat application featuring real-time messaging capabilities, built with modern web technologies.
 
+### 🍱 MessFoodLens – Smart Food Redistribution Platform
+A full-stack MERN application that connects **students, mess owners, and NGOs** to redistribute surplus food efficiently, reducing food waste and promoting sustainable community support.
+
 ### 🌐 Web Mini Projects
 A collection of small-scale web projects showcasing various web development skills and techniques.
 
