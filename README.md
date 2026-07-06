@@ -104,7 +104,7 @@ My long-term goal is to become a Software Engineer capable of building productio
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" width="450"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" width="350"/>
 
 </p>
 
@@ -116,7 +116,7 @@ My long-term goal is to become a Software Engineer capable of building productio
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="450"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="350"/>
 
 </p>
 
