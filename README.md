@@ -363,37 +363,29 @@ Repeat 🔁
 # 🤝 Let's Connect
 
 
-
 <p align="center">
 
-
-
 <a href="https://www.linkedin.com/in/krishankant-dixit-xb5">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
-
-
 
 <a href="https://krishankant-portfolio.vercel.app">
-
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 </a>
 
-
-
-<a href="krishankantdixit778@gmail.com">
-
+<a href="mailto:krishankantdixit778@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
+<a href="https://leetcode.com/u/Krishankan-Dixit">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://www.geeksforgeeks.org/profile/krishankant001">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </p>
-
 
 
 ---
